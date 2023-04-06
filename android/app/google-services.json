@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "256058287677",
+    "project_id": "flutternotifications-66388",
+    "storage_bucket": "flutternotifications-66388.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:256058287677:android:c1b4e87093b2ec465cec54",
+        "android_client_info": {
+          "package_name": "com.gabriel.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "256058287677-8o3kk7p59au0h5nsg2cnjl3tep4eotht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gabriel.notification",
+            "certificate_hash": "ba977155f892a0a1fcf4cef9611494dcc1a81d6f"
+          }
+        },
+        {
+          "client_id": "256058287677-ko0dsebl700pc45bhaut6u49ha25fi79.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZerJmRj_EWGtjpttigsZW1sKGahSyIcA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "256058287677-ko0dsebl700pc45bhaut6u49ha25fi79.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
